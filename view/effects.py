@@ -1,4 +1,5 @@
 # view/effects.py
+# 飞出与碰撞动画
 from config import (
     CELL_SIZE, CELL_GAP, BOARD_PADDING,
     WINDOW_WIDTH, BOARD_WIDTH, BOARD_HEIGHT,
