@@ -1,4 +1,5 @@
 # config.py
+# 全局配置常量
 WINDOW_WIDTH = 520
 WINDOW_HEIGHT = 700
 FPS = 60
