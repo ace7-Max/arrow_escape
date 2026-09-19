@@ -1,4 +1,5 @@
 # model/rules.py
+# 四个方向的路径检测
 from config import ROWS, COLS, DIRS
 
 
