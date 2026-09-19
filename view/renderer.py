@@ -1,4 +1,5 @@
 # view/renderer.py
+# 界面渲染
 import os
 import pygame
 from config import (
