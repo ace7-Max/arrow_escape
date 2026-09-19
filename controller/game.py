@@ -1,4 +1,5 @@
 # controller/game.py
+# 游戏状态机与关卡切换
 from enum import Enum
 from config import MAX_MISTAKES
 from model.board import Board
